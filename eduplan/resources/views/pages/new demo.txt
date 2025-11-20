@@ -1,0 +1,714 @@
+ <div class="course-tutorial">
+                                <h3 class="details-title">Course Content</h3>
+                                <p class="tutorial-details paragraph">29 sections • 190 lectures • 26h 41m total length
+                                </p>
+
+                                <div class="course-video-wrap">
+                                    <div class="accordion-wrapper style-03">
+                                        <!-- accordion wrapper -->
+                                        <div id="accordionOne">
+                                            <div class="card">
+                                                <div class="card-header" id="headingOne">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseOne" aria-expanded="false"
+                                                            aria-controls="collapseOne">
+                                                            <p class="heading-text">Introduction to Web development</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseOne" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingTwo">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseTwo" aria-expanded="false"
+                                                            aria-controls="collapseTwo">
+                                                            <p class="heading-text">Fron-end development - HTML for
+                                                                beginner</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseTwo" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingThree">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseThree" aria-expanded="false"
+                                                            aria-controls="collapseThree">
+                                                            <p class="heading-text">Introduction to Web development</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseThree" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingFour">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseFour" aria-expanded="false"
+                                                            aria-controls="collapseFour">
+                                                            <p class="heading-text">Fron-end development - HTML
+                                                                Intermediate</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseFour" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingFive">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseFive" aria-expanded="false"
+                                                            aria-controls="collapseFive">
+                                                            <p class="heading-text">Fron-end development - CSS
+                                                                Introduction</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseFive" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingSix">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseSix" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">Fron-end development - JSS
+                                                                Introduction</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseSix" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingSeven">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseSeven" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">Fron-end development - jQuery
+                                                                Intermediate</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingEight">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseEight" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">Project- Create a website with
+                                                                HTML5, CSS & responsive Bootstrap</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseEight" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingNine">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseNine" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">Back-end development - MySQL
+                                                                Intermediate</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseNine" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingTen">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseTen" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">PHP MySQL PDF Guides</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseTen" class="collapse" data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingEleven">
+                                                    <h5 class="mb-0">
+                                                        <a class="collapsed" role="button" data-bs-toggle="collapse"
+                                                            data-bs-target="#collapseEleven" aria-expanded="false"
+                                                            aria-controls="collapseSix">
+                                                            <p class="heading-text">Career advice form top experts</p>
+                                                            <p class="details">4 lectures • 48 min</p>
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapseEleven" class="collapse"
+                                                    data-bs-parent="#accordionOne">
+                                                    <div class="card-body">
+                                                        <ul class="ul videos">
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play  icon"></i>
+                                                                    </span>
+                                                                    What you will learn in this course?
+                                                                </p>
+                                                                <p class="details">
+                                                                    <spam class="preview">
+                                                                        <a class="video-play-btn text mfp-iframe"
+                                                                            href="https://www.youtube.com/watch?v=c7XEhXZ_rsk">Preview
+                                                                        </a>
+                                                                    </spam> 08 min
+                                                                </p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-play icon"></i>
+                                                                    </span>
+                                                                    How the internet and web works?
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-regular fa-file-lines icon"></i>
+                                                                    </span>
+                                                                    Top text editors for coding
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+
+                                                            <li class="single-video">
+                                                                <p class="video-text">
+                                                                    <span class="icon-wrap">
+                                                                        <i class="fa-solid fa-circle-question icon"></i>
+                                                                    </span>
+                                                                    Quiz on lesson part-01
+                                                                </p>
+                                                                <p class="details"> 08 min</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
